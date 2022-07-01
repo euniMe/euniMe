@@ -14,3 +14,17 @@
             <a href="#"><i class="fa fa-shopping-cart" style="font-size:30px;color:red"></i> <span style="font-size:30px;color:red" id="cart_count"></span></a>
         </ul>
     </nav>
+<div class="scroll" id="item_contain">
+        <div class="row" id="item_row1" >
+            <div class="column">
+              <div class="card" id="item1">
+                <img src="item.png" alt="Jane" style="width:50%">
+                <div class="container">
+                  <h2 id="item1_name">Item 1item1</h2>
+                  <p class="title" id="item1_price">Price: $40.00</p>
+                  <p id="item1_discrp">Discrption of product</p>
+                  <p id="item1_avial">Availability</p>
+                  <p><button class="button" id="item1_button">Add to cart</button></p>
+                </div>
+              </div>
+            </div>
