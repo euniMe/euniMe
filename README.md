@@ -67,3 +67,16 @@
                 </div>
               </div>
             </div>
+ <div class="column">
+              <div class="card">
+                <img src="item.png" alt="Jane" style="width:50%">
+                <div class="container">
+                  <h2>Item 5</h2>
+                  <p class="title">Price: $400.00</p>
+                  <p>Discrption of product</p>
+                  <p>Availability</p>
+                  <p><button class="button">Add to cart</button></p>
+                </div>
+              </div>
+            </div>
+            
