@@ -93,3 +93,15 @@
             </div>
           </div>
     </div>
+ <footer>
+            <div id="follow-us">
+                    <h3>Follow Us</h3>
+                <div class="footer-info-links">
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                </div>
+            </div>
+    </footer>
+</body>
+</html>
